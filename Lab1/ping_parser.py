@@ -1,8 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.ticker as ticker
 import collections
 
-file_name = input("Enter file:")
+file_name = input("Enter file:") + ".txt"
 
 lines = []                                
 with open (file_name, 'rt') as myfile:    
@@ -58,6 +59,17 @@ print("Max =", max_latency)
 print("Mean =", mean_latency)
 print("Median =", median_latency)
 
+x = latency
+hist, bins = np.histogram(x, bins=180, range=(min_latency - 5, mean_latency + 50))
+width = 0.7 * (bins[1] - bins[0])
+center = (bins[:-1] + bins[1:]) / 2
+plt.bar(center, hist, align='center', width=width)
+plt.xlabel("Latency (in ms) ")
+plt.ylabel("Frequency")
+plt.title("ping -p ff00 172.217.160.174")
+plt.show()
+
+"""
 freq = {} 
 for item in latency:
 	item = round(float(item))
@@ -68,17 +80,16 @@ for item in latency:
 
 freq = collections.OrderedDict(sorted(freq.items()))
 
-"""
-for key, value in freq.items():
-	print ("% d : % d"%(key, value))
-"""
+
 
 plt.figure(figsize=(20,3))
-plt.bar(range(len(freq)), list(freq.values()), align='center', width=0.5)
-plt.xticks(range(len(freq)), list(freq.keys()), rotation=45, fontsize=4)
-plt.yticks(fontsize=6)
-plt.xlabel("Latency (in ms) ")
-plt.ylabel("Frequency")
-plt.title("ping -p ff00 <IPAddress>")
+plt.bar(range(len(freq)), list(freq.values()), align='center', width=0.7)
+plt.xticks(range(len(freq)), list(freq.keys()), rotation=40, fontsize=7)
+plt.yticks(fontsize=7)
 
-plt.show()
+#plt.tick_params(axis='x', which='major', labelsize=4)
+
+ax = plt.axes()
+ax.xaxis.set_major_locator(ticker.MultipleLocator(5))
+ax.xaxis.set_minor_locator(ticker.MultipleLocator(1))
+plt.show()"""
