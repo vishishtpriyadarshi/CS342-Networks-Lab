@@ -1,337 +1,300 @@
-PING crunchyroll.com (104.18.23.9) 64(92) bytes of data.
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=208 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=118 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=44.6 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=91.7 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=44.8 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=541 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=150 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=51.6 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=9 ttl=128 time=241 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=10 ttl=128 time=51.2 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=106 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=86.2 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=13 ttl=128 time=56.1 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=204 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=51.4 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=76.7 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=553 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=50.8 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=38.9 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=57.2 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=63.0 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=40.4 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=46.8 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=24 ttl=128 time=50.4 ms
-72 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=42.8 ms
+PING crunchyroll.com (104.18.22.9) 64(92) bytes of data.
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=38.1 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=37.8 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=38.3 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=38.5 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=38.6 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=38.4 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=38.6 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=37.9 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=40.4 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=38.4 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=38.3 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=40.1 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=37.3 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=41.7 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=40.7 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=37.1 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=40.8 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=40.8 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=41.7 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=38.9 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=40.5 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=37.7 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=38.7 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=40.0 ms
+72 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=43.1 ms
 
 --- crunchyroll.com ping statistics ---
-25 packets transmitted, 25 received, 0% packet loss, time 24044ms
-rtt min/avg/max/mdev = 38.851/122.666/553.462/137.130 ms
-
-
-
-
-PING crunchyroll.com (104.18.23.9) 128(156) bytes of data.
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=39.0 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=93.2 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=38.4 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=39.7 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=130 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=68.8 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=48.9 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=41.1 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=9 ttl=128 time=50.4 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=10 ttl=128 time=47.5 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=38.6 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=38.9 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=13 ttl=128 time=39.1 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=42.0 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=37.6 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=44.5 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=44.8 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=39.2 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=41.2 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=40.8 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=40.7 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=78.2 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=50.6 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=24 ttl=128 time=46.3 ms
-136 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=41.9 ms
-
---- crunchyroll.com ping statistics ---
-25 packets transmitted, 25 received, 0% packet loss, time 24049ms
-rtt min/avg/max/mdev = 37.649/50.463/130.101/20.940 ms
-
-
-
-
-PING crunchyroll.com (104.18.23.9) 256(284) bytes of data.
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=42.7 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=39.4 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=37.9 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=37.7 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=40.2 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=37.3 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=39.6 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=39.8 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=9 ttl=128 time=37.7 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=10 ttl=128 time=38.6 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=40.5 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=37.2 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=13 ttl=128 time=39.4 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=49.7 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=41.2 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=93.4 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=37.7 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=37.9 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=39.8 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=37.8 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=38.2 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=37.1 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=40.5 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=24 ttl=128 time=38.9 ms
-264 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=37.9 ms
-
---- crunchyroll.com ping statistics ---
-25 packets transmitted, 25 received, 0% packet loss, time 24047ms
-rtt min/avg/max/mdev = 37.055/41.526/93.356/10.874 ms
-
-
-
-
-
-PING crunchyroll.com (104.18.23.9) 512(540) bytes of data.
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=42.7 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=43.6 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=38.1 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=46.8 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=43.2 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=42.8 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=38.4 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=39.2 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=9 ttl=128 time=37.7 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=10 ttl=128 time=42.0 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=40.7 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=40.3 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=13 ttl=128 time=39.1 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=39.0 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=42.0 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=38.0 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=37.9 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=41.0 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=39.4 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=39.1 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=40.9 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=37.9 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=37.8 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=24 ttl=128 time=39.4 ms
-520 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=37.5 ms
-
---- crunchyroll.com ping statistics ---
-25 packets transmitted, 25 received, 0% packet loss, time 24047ms
-rtt min/avg/max/mdev = 37.456/40.184/46.787/2.315 ms
-
-
-
-
-PING crunchyroll.com (104.18.23.9) 768(796) bytes of data.
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=51.9 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=38.5 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=40.0 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=39.4 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=37.8 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=42.6 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=53.7 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=37.6 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=9 ttl=128 time=39.5 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=10 ttl=128 time=39.2 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=43.4 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=41.6 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=13 ttl=128 time=40.0 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=38.4 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=45.7 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=44.1 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=38.3 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=39.9 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=40.0 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=39.3 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=42.7 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=39.8 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=38.9 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=24 ttl=128 time=45.1 ms
-776 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=40.2 ms
-
---- crunchyroll.com ping statistics ---
-25 packets transmitted, 25 received, 0% packet loss, time 24049ms
-rtt min/avg/max/mdev = 37.567/41.507/53.708/3.993 ms
-
-
-
-
-
-PING crunchyroll.com (104.18.23.9) 1024(1052) bytes of data.
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=40.1 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=38.1 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=38.3 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=46.5 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=41.2 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=38.3 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=41.2 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=39.9 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=9 ttl=128 time=42.0 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=40.5 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=39.9 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=41.5 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=40.0 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=38.7 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=38.1 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=43.7 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=42.2 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=37.9 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=41.1 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=39.1 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=37.8 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=24 ttl=128 time=46.1 ms
-1032 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=40.7 ms
-
---- crunchyroll.com ping statistics ---
-25 packets transmitted, 23 received, 8% packet loss, time 24060ms
-rtt min/avg/max/mdev = 37.805/40.552/46.524/2.342 ms
-
-
-
-
-
-PING crunchyroll.com (104.18.23.9) 1280(1308) bytes of data.
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=38.8 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=40.0 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=43.5 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=38.9 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=43.0 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=40.3 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=38.5 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=41.0 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=9 ttl=128 time=39.4 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=10 ttl=128 time=39.9 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=38.8 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=41.1 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=13 ttl=128 time=38.7 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=38.9 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=37.8 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=41.0 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=38.9 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=44.5 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=41.5 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=44.4 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=38.7 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=38.7 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=38.7 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=24 ttl=128 time=39.7 ms
-1288 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=41.3 ms
+25 packets transmitted, 25 received, 0% packet loss, time 24055ms
+rtt min/avg/max/mdev = 37.100/39.299/43.062/1.532 ms
+PING crunchyroll.com (104.18.22.9) 128(156) bytes of data.
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=38.1 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=38.5 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=39.4 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=39.6 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=38.6 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=39.9 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=38.0 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=38.8 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=40.2 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=38.1 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=43.0 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=41.6 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=38.1 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=40.3 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=40.5 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=40.7 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=39.7 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=38.8 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=39.0 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=37.8 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=37.4 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=38.0 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=45.3 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=38.2 ms
+136 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=41.1 ms
 
 --- crunchyroll.com ping statistics ---
 25 packets transmitted, 25 received, 0% packet loss, time 24050ms
-rtt min/avg/max/mdev = 37.776/40.240/44.520/1.874 ms
-
-
-
-
-PING crunchyroll.com (104.18.23.9) 1536(1564) bytes of data.
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=44.5 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=40.7 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=42.0 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=41.8 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=39.5 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=42.6 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=47.6 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=39.1 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=9 ttl=128 time=40.7 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=10 ttl=128 time=43.0 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=39.7 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=41.7 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=13 ttl=128 time=39.6 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=39.9 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=39.2 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=39.2 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=39.4 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=44.5 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=38.6 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=39.8 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=45.4 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=44.8 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=41.8 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=24 ttl=128 time=43.3 ms
-1544 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=40.5 ms
+rtt min/avg/max/mdev = 37.384/39.546/45.319/1.779 ms
+PING crunchyroll.com (104.18.22.9) 256(284) bytes of data.
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=38.9 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=37.9 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=38.7 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=38.9 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=37.2 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=37.9 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=43.3 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=43.1 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=38.0 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=37.8 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=41.2 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=40.5 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=38.6 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=39.4 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=38.6 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=38.4 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=37.6 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=46.5 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=39.3 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=38.3 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=41.0 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=45.1 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=39.4 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=37.4 ms
+264 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=44.5 ms
 
 --- crunchyroll.com ping statistics ---
-25 packets transmitted, 25 received, 0% packet loss, time 24046ms
-rtt min/avg/max/mdev = 38.637/41.567/47.639/2.341 ms
-
-
-
-
-
-PING crunchyroll.com (104.18.23.9) 1792(1820) bytes of data.
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=157 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=96.7 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=277 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=465 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=847 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=277 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=75.1 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=104 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=10 ttl=128 time=1480 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=545 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=1775 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=13 ttl=128 time=1179 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=331 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=161 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=208 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=54.5 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=118 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=252 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=378 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=164 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=257 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=858 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=24 ttl=128 time=179 ms
-1800 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=678 ms
+25 packets transmitted, 25 received, 0% packet loss, time 24030ms
+rtt min/avg/max/mdev = 37.235/39.900/46.548/2.561 ms
+PING crunchyroll.com (104.18.22.9) 512(540) bytes of data.
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=41.6 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=40.0 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=37.9 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=39.5 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=38.2 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=39.3 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=41.2 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=42.0 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=42.5 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=37.9 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=44.4 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=41.1 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=40.3 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=42.0 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=44.7 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=48.4 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=42.0 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=40.8 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=48.6 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=40.0 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=40.6 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=38.0 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=127 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=41.7 ms
+520 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=39.1 ms
 
 --- crunchyroll.com ping statistics ---
-25 packets transmitted, 24 received, 4% packet loss, time 24069ms
-rtt min/avg/max/mdev = 54.545/454.846/1774.822/452.914 ms, pipe 2
-
-
-
-
-
-PING crunchyroll.com (104.18.23.9) 2048(2076) bytes of data.
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=1 ttl=128 time=91.8 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=2 ttl=128 time=74.4 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=3 ttl=128 time=513 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=4 ttl=128 time=1050 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=5 ttl=128 time=60.0 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=6 ttl=128 time=226 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=7 ttl=128 time=43.1 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=8 ttl=128 time=42.3 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=9 ttl=128 time=108 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=10 ttl=128 time=43.4 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=11 ttl=128 time=398 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=12 ttl=128 time=176 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=13 ttl=128 time=981 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=14 ttl=128 time=544 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=15 ttl=128 time=255 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=16 ttl=128 time=40.9 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=17 ttl=128 time=41.6 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=18 ttl=128 time=117 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=19 ttl=128 time=42.1 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=20 ttl=128 time=40.4 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=21 ttl=128 time=40.6 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=22 ttl=128 time=45.5 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=23 ttl=128 time=47.9 ms
-2056 bytes from 104.18.23.9 (104.18.23.9): icmp_seq=25 ttl=128 time=40.8 ms
+25 packets transmitted, 25 received, 0% packet loss, time 24061ms
+rtt min/avg/max/mdev = 37.869/44.765/127.431/17.097 ms
+PING crunchyroll.com (104.18.22.9) 768(796) bytes of data.
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=37.7 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=46.3 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=38.3 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=39.0 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=59.5 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=38.0 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=39.0 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=37.8 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=41.1 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=37.7 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=41.1 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=39.0 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=37.3 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=43.9 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=38.8 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=55.5 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=43.9 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=47.4 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=43.7 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=42.1 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=38.9 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=38.0 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=41.0 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=38.8 ms
+776 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=39.1 ms
 
 --- crunchyroll.com ping statistics ---
-25 packets transmitted, 24 received, 4% packet loss, time 24080ms
-rtt min/avg/max/mdev = 40.364/210.912/1050.016/283.182 ms, pipe 2
+25 packets transmitted, 25 received, 0% packet loss, time 24074ms
+rtt min/avg/max/mdev = 37.264/41.717/59.519/5.429 ms
+PING crunchyroll.com (104.18.22.9) 1024(1052) bytes of data.
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=38.7 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=39.2 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=39.2 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=38.4 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=40.3 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=40.1 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=40.6 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=38.0 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=38.3 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=39.7 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=42.9 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=40.8 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=43.7 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=40.9 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=40.0 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=38.3 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=38.9 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=40.4 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=40.4 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=37.8 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=39.0 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=39.4 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=40.8 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=40.7 ms
+1032 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=41.8 ms
+
+--- crunchyroll.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24049ms
+rtt min/avg/max/mdev = 37.751/39.929/43.661/1.424 ms
+PING crunchyroll.com (104.18.22.9) 1280(1308) bytes of data.
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=42.0 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=38.3 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=39.6 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=46.7 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=42.1 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=38.0 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=38.7 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=39.4 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=40.6 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=38.3 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=39.1 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=38.2 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=54.5 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=38.6 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=38.9 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=42.4 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=38.2 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=38.6 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=38.7 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=40.6 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=40.0 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=38.7 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=38.1 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=41.0 ms
+1288 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=41.5 ms
+
+--- crunchyroll.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24060ms
+rtt min/avg/max/mdev = 38.011/40.424/54.452/3.461 ms
+PING crunchyroll.com (104.18.22.9) 1536(1564) bytes of data.
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=49.9 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=41.2 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=40.3 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=39.1 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=40.8 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=43.5 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=40.7 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=40.6 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=41.7 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=40.2 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=43.6 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=39.8 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=50.6 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=42.7 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=39.5 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=39.1 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=39.6 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=41.7 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=39.8 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=42.3 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=40.7 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=40.4 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=38.7 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=52.5 ms
+1544 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=39.6 ms
+
+--- crunchyroll.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24049ms
+rtt min/avg/max/mdev = 38.655/41.939/52.525/3.598 ms
+PING crunchyroll.com (104.18.22.9) 1792(1820) bytes of data.
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=51.6 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=40.1 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=39.7 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=41.2 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=39.7 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=41.4 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=41.2 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=39.1 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=39.5 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=41.2 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=58.3 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=76.3 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=73.6 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=77.3 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=49.6 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=40.0 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=47.5 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=44.2 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=42.2 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=39.5 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=40.0 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=43.0 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=40.2 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=93.0 ms
+1800 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=62.2 ms
+
+--- crunchyroll.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24051ms
+rtt min/avg/max/mdev = 39.125/49.669/93.021/14.788 ms
+PING crunchyroll.com (104.18.22.9) 2048(2076) bytes of data.
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=1 ttl=128 time=45.2 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=2 ttl=128 time=40.7 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=3 ttl=128 time=40.8 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=4 ttl=128 time=40.6 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=5 ttl=128 time=41.1 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=6 ttl=128 time=46.7 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=7 ttl=128 time=41.0 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=8 ttl=128 time=48.7 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=9 ttl=128 time=41.4 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=10 ttl=128 time=41.5 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=11 ttl=128 time=40.7 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=12 ttl=128 time=41.1 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=13 ttl=128 time=42.0 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=14 ttl=128 time=46.0 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=15 ttl=128 time=42.2 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=16 ttl=128 time=41.7 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=17 ttl=128 time=42.7 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=18 ttl=128 time=41.0 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=19 ttl=128 time=41.1 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=20 ttl=128 time=41.9 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=21 ttl=128 time=41.2 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=22 ttl=128 time=47.6 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=23 ttl=128 time=80.8 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=24 ttl=128 time=44.5 ms
+2056 bytes from 104.18.22.9 (104.18.22.9): icmp_seq=25 ttl=128 time=44.7 ms
+
+--- crunchyroll.com ping statistics ---
+25 packets transmitted, 25 received, 0% packet loss, time 24056ms
+rtt min/avg/max/mdev = 40.574/44.275/80.840/7.826 ms
